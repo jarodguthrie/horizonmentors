@@ -1,0 +1,20 @@
+<div class="row"> 
+	<div class = "col-md-6">
+		<img src="https://www.horizonmentors.com/wp-content/uploads/2017/03/Jarodpic-square-150x150.png" alt="Jarod pic" /> 
+		<h3> Role </h3>
+			<p> Community Manager for Start-ups </p>
+		<h3> Qualifications </h3>
+			<p> Bachelor Business (Marketing) / Bachelor Arts (Pscyhology) </p>
+		<h3> Interests </h3>
+			<p> Tech, reading, talking about the nature of reality and our place in the universe </p>
+	</div>
+	<div class = "col-md-6">
+		<img src="https://www.horizonmentors.com/wp-content/uploads/2017/03/Picture1-150x150.png" alt="Karinna pic" /> 
+		<h3> Role </h3>
+			<p> Community Manager for Start-ups </p>
+		<h3> Qualifications </h3>
+			<p> Bachelor Business (Marketing) / Bachelor Arts (Pscyhology) </p>
+		<h3> Interests </h3>
+			<p> Tech, reading, talking about the nature of reality and our place in the universe </p>
+	</div>
+</div>
